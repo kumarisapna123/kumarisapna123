@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kumarisapna123
-- 👀 I’m interested in 
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in becoming a data sciencist
+- 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
